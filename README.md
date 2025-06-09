@@ -11,6 +11,8 @@ Covid pandemic of which the effects on the number of benefit claimants is
 clear. It is also clear that neighbouring councils can have stark differences
 in unemployment numbers.
 
+![](https://raw.githubusercontent.com/steviecurran/UK-employment/refs/heads/main/page3.png)
+
 The dashboard has three pages:
 
 - Page 1 (**By region**) shows how this is distributed over the UK regions and can be filtered
@@ -32,9 +34,6 @@ The dashboard has three pages:
 Page 3 (**Comparisons**) combines the above data with population date from further databases
        for England plus Wales and Scotland. This is used to obtain the percentage of
        unemployed for each council 
-
-       ![](https://raw.githubusercontent.com/steviecurran/UK-employment/refs/heads/main/page3.png)
-
 
        The spreadsheets in different formats, each of which is processed by the
        code. Also, some councils have slightly different names from the

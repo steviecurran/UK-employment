@@ -28,7 +28,7 @@ The dashboard has three pages:
 	There is also a table showing how much the council contributes to the UK total,
 	as well as the lowest, highest and median values.
 
-Page 3 (**Comparisons**) combines the above data with population date from further databases
+- Page 3 (**Comparisons**) combines the above data with population date from further databases
        for England plus Wales and Scotland. This is used to obtain the percentage of
        unemployed for each council.<br> <br> 
        The spreadsheets in different formats, each of which is processed by the
